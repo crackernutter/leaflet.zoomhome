@@ -1,4 +1,5 @@
 {
+  "name":"leaflet-zoomhome",
   "devDependencies": {
     "chai": "4.1.2",
     "grunt": "~0.4.5",
